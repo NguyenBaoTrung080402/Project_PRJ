@@ -16,6 +16,7 @@
     </head>
     <body>
         <!-- partial:index.partial.html -->
+        <form action="" method="post">
         <div class="materialContainer">
 
 
@@ -42,7 +43,8 @@
                 <a href="" class="pass-forgot">Forgot your password?</a>
 
             </div>
-
+            </form>
+            <form action="" method="post">
             <div class="overbox">
                 <div class="material-button alt-2"><span class="shape"></span></div>
 
@@ -74,6 +76,7 @@
             </div>
 
         </div>
+            </form>
         <!-- partial -->
         <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script><script  src="./assets/js/loginJS.js"></script>
 
